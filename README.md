@@ -1,4 +1,4 @@
-# jieba
+# jieba-zh_TW
 
 結巴(jieba)斷詞台灣繁體版本
 
@@ -60,3 +60,8 @@ print("|".join(seg_list))
 ## 注意事項
 
 使用本份程式碼請遵守[中研院斷詞服務之服務條款](http://ckipsvr.iis.sinica.edu.tw/terms.htm)其中的衍生資料相關規定
+
+
+## 一些問題
+
+詳見我Blog上的這篇文章：[關於結巴(Jieba)斷詞的幾個問題](https://blog.ldkrsi.in/%E9%97%9C%E6%96%BC%E7%B5%90%E5%B7%B4%E6%96%B7%E8%A9%9E%E7%9A%84%E5%B9%BE%E5%80%8B%E5%95%8F%E9%A1%8C/)
