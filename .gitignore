@@ -170,3 +170,4 @@ test/tmp/*
 *.class
 
 MANIFEST
+test.py
